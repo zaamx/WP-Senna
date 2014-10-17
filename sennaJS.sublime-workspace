@@ -1,0 +1,1882 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"gray-l",
+				"gray-lighter"
+			],
+			[
+				"POS",
+				"position"
+			],
+			[
+				"back",
+				"background-image"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"border",
+				"border-top"
+			],
+			[
+				"z-",
+				"z-index"
+			],
+			[
+				"prin",
+				"print_r"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"gray-light",
+				"gray-light"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"brand",
+				"brand-danger"
+			],
+			[
+				"entr",
+				"entry_id"
+			],
+			[
+				"brand-",
+				"brand-warning"
+			],
+			[
+				"rb",
+				"rgba(r,g,b,a)"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"bord",
+				"border-bottom"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"gray-lig",
+				"gray-lighter"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"rg",
+				"rgba()"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"list-s",
+				"list-style"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"gray-dar",
+				"gray-darker"
+			],
+			[
+				"r",
+				"right"
+			],
+			[
+				"pos",
+				"position"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "header-home.php",
+			"settings":
+			{
+				"buffer_size": 5584,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "library/less/libs/bootstrap-3/variables.less",
+			"settings":
+			{
+				"buffer_size": 26337,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "sidebar.php",
+			"settings":
+			{
+				"buffer_size": 1763,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "sidebar-home.php",
+			"settings":
+			{
+				"buffer_size": 522,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "library/bones.php",
+			"settings":
+			{
+				"buffer_size": 12231,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "library/less/_xs-base.less",
+			"settings":
+			{
+				"buffer_size": 14733,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "archive.php",
+			"settings":
+			{
+				"buffer_size": 3183,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "template-parts/event.php",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "page-homejs.php",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "single.php",
+			"settings":
+			{
+				"buffer_size": 2136,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "template-parts/format-event.php",
+			"settings":
+			{
+				"buffer_size": 1575,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "functions.php",
+			"settings":
+			{
+				"buffer_size": 9567,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "header.php",
+			"settings":
+			{
+				"buffer_size": 3307,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "footer.php",
+			"settings":
+			{
+				"buffer_size": 2184,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "front-page.php",
+			"settings":
+			{
+				"buffer_size": 5547,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "template-parts/post-artImage.php",
+			"settings":
+			{
+				"buffer_size": 538,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"htm",
+				"Set Syntax: HTML"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"ht	",
+				"Set Syntax: HTML"
+			],
+			[
+				"ht",
+				"Set Syntax: HTML"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"paca",
+				"Package Control: Install Package"
+			],
+			[
+				"pal",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/pedrocerilla/Repos/colpos/wp-content/themes/colpos/header-home.php",
+		"/Users/pedrocerilla/Repos/senna/wp-content/themes/senna/style.css",
+		"/Users/pedrocerilla/Repos/senna/wp-content/themes/senna/library/css/style.css",
+		"/Users/pedrocerilla/Repos/senna/wp-content/themes/senna/library/template-parts/event.php",
+		"/Users/pedrocerilla/Repos/senna/wp-content/themes/senna/template-parts/event.php",
+		"/Users/pedrocerilla/Repos/senna/wp-content/themes/senna/page-homejs.html",
+		"/Users/pedrocerilla/Repos/sennajs/examples/email/index.html",
+		"/Users/pedrocerilla/Repos/senna/wp-content/themes/senna/sidebar.php",
+		"/Users/pedrocerilla/Repos/senna/wp-content/themes/senna/page-homejs.php",
+		"/Users/pedrocerilla/Repos/senna/wp-content/themes/senna/page.php",
+		"/Users/pedrocerilla/Repos/senna/wp-content/themes/senna/search.php",
+		"/Users/pedrocerilla/Repos/senna/wp-content/themes/senna/single-custom_type.php",
+		"/Users/pedrocerilla/Repos/senna/wp-content/themes/senna/single.php",
+		"/Users/pedrocerilla/Repos/senna/wp-content/themes/senna/taxonomy-custom_cat.php",
+		"/Users/pedrocerilla/Repos/senna/wp-content/themes/senna/404.php",
+		"/Users/pedrocerilla/Repos/senna/wp-content/themes/senna/archive-custom_type.php",
+		"/Users/pedrocerilla/Repos/senna/wp-content/themes/senna/archive.php",
+		"/Users/pedrocerilla/Repos/senna/wp-content/themes/senna/index.php",
+		"/Users/pedrocerilla/Repos/senna/wp-content/themes/senna/page-custom.php",
+		"/Users/pedrocerilla/Repos/senna/wp-content/themes/senna/library/less/_xs-base.less",
+		"/Users/pedrocerilla/Repos/senna/wp-content/themes/senna/header.php",
+		"/Users/pedrocerilla/Repos/senna/wp-content/themes/senna/footer.php",
+		"/Users/pedrocerilla/Repos/senna/wp-content/themes/senna/header-home.php",
+		"/Users/pedrocerilla/Repos/senna/wp-content/themes/senna/library/js/scripts.js",
+		"/Users/pedrocerilla/Repos/senna/wp-content/themes/senna/library/less/libs/bootstrap-3/variables.less",
+		"/Users/pedrocerilla/Repos/senna/wp-config.php",
+		"/Users/pedrocerilla/Repos/sm/.htaccess",
+		"/Users/pedrocerilla/Repos/ttt/themes/site_themes/default_site/eventos.group/index.html",
+		"/Users/pedrocerilla/Repos/sm/sites/all/themes/juno_magazine/sass/_style.scss",
+		"/Users/pedrocerilla/Repos/valores/valores/library/css/boots_forms.css",
+		"/Users/pedrocerilla/Repos/PEP Implementación/app/views/global/nav.blade.php",
+		"/Users/pedrocerilla/Repos/PEP Implementación/public/library/css/style.css",
+		"/Users/pedrocerilla/Repos/sm/sites/all/themes/juno_magazine/sass/sass-bootstrap.scss",
+		"/Users/pedrocerilla/Repos/sm/sites/all/themes/juno_magazine/sass/style-all.scss",
+		"/Users/pedrocerilla/Repos/sm/sites/all/modules/jquery_update/2156881-jquery_update-jquery_migrate_support-14 copia.patch",
+		"/Users/pedrocerilla/Repos/sm/sites/all/themes/juno_magazine/css/style-all.css",
+		"/Users/pedrocerilla/Repos/sm/sites/all/themes/juno_magazine/sass/_comments.scss",
+		"/Users/pedrocerilla/Repos/PEP Implementación/public/library/js/libs/jquery.vide.min.js",
+		"/Users/pedrocerilla/Repos/PEP Implementación/public/library/less/_base.less",
+		"/Users/pedrocerilla/Repos/PEP Implementación/public/library/less/libs/bootstrap-3.1.1/variables.less",
+		"/Users/pedrocerilla/Repos/PEP Implementación/public/library/less/libs/bootstrap-3.1.1/modals.less",
+		"/Users/pedrocerilla/Repos/PEP Implementación/public/noticias/wp-content/themes/ok/page-front-comite.php",
+		"/Users/pedrocerilla/Repos/PEP Implementación/app/views/convocatoria/Home.blade.php",
+		"/Users/pedrocerilla/Repos/PEP Implementación/public/library/less/libs/bootstrap-3.1.1/mixins.less",
+		"/Users/pedrocerilla/Repos/PEP Implementación/public/library/less/ie.less",
+		"/Users/pedrocerilla/Repos/PEP Implementación/app/views/global/js.blade.php",
+		"/Users/pedrocerilla/Repos/PEP Implementación/public/noticias/wp-content/themes/ok/page-front-video.php",
+		"/Users/pedrocerilla/Repos/PEP Implementación/public/library/js/scripts.js",
+		"/Users/pedrocerilla/Repos/PEP Implementación/public/noticias/wp-content/themes/ok/parts/modal-jurado.php",
+		"/Users/pedrocerilla/Repos/PEP Implementación/public/noticias/wp-content/themes/ok/page-front-jurado.php",
+		"/Users/pedrocerilla/Repos/PEP Implementación/public/noticias/wp-content/themes/ok/page-front-noticias.php",
+		"/Users/pedrocerilla/Repos/PEP Implementación/public/noticias/wp-content/themes/ok/page-front-premios.php",
+		"/Users/pedrocerilla/Repos/PEP Implementación/public/library/less/_768up.less",
+		"/Users/pedrocerilla/Repos/PEP Implementación/public/library/less/_481up.less",
+		"/Users/pedrocerilla/Repos/PEP Implementación/public/noticias/wp-content/themes/ok/page-front-bases.php",
+		"/Users/pedrocerilla/Repos/PEP Implementación/public/noticias/wp-content/themes/ok/page-front-introcta.php",
+		"/Users/pedrocerilla/Repos/PEP Implementación/public/noticias/wp-content/themes/ok/page-front-contador.php",
+		"/Users/pedrocerilla/Repos/PEP Implementación/public/noticias/wp-content/themes/ok/parts/modal-comite.php",
+		"/Users/pedrocerilla/Repos/PEP Implementación/app/views/global/head.blade.php",
+		"/Users/pedrocerilla/Repos/PEP Implementación/app/views/Home.blade.php",
+		"/Users/pedrocerilla/Repos/PEP Implementación/public/noticias/wp-includes/admin-bar.php",
+		"/Users/pedrocerilla/Repos/PEP Implementación/public/noticias/comite.php",
+		"/Users/pedrocerilla/Repos/PEP Implementación/app/views/global/footer.blade.php",
+		"/Users/pedrocerilla/Repos/PEP Implementación/public/noticias/videoFullWidth.php",
+		"/Users/pedrocerilla/Repos/PEP Implementación/.gitignore",
+		"/Users/pedrocerilla/Repos/pep/library/less/_768up.less",
+		"/Users/pedrocerilla/Google Drive/Clicker_Clientes/Por-El-Planeta/140805Cambios.txt",
+		"/Users/pedrocerilla/Repos/pep/library/less/libs/bootstrap-3.1.1/buttons.less",
+		"/Users/pedrocerilla/Repos/pep/library/js/scripts.js",
+		"/Users/pedrocerilla/Downloads/ink-1.0.5/examples/sidebar-hero.html",
+		"/Users/pedrocerilla/Repos/pepnoticias/wp-content/themes/ok/library/less/libs/bootstrap-3.1.1/variables.less",
+		"/Users/pedrocerilla/Library/Caches/Cleanup At Startup/Transmit/C761550B-F15A-4D1A-A9FD-2668D4A430DD/index.html",
+		"/Users/pedrocerilla/Repos/pepnoticias/wp-content/themes/ok/library/less/libs/bootstrap-3.1.1/buttons.less",
+		"/Users/pedrocerilla/Library/Caches/Cleanup At Startup/Transmit/FEA1ADD9-A03F-4CF4-A376-05351BAA411A/convocatoria.php",
+		"/Users/pedrocerilla/Library/Caches/Cleanup At Startup/Transmit/DE20D916-DF4E-40C9-9F96-9827D648319B/Home.blade.php",
+		"/Users/pedrocerilla/Library/Caches/Cleanup At Startup/Transmit/0CA30C62-B31E-4281-AF68-52AB4160D0A3/wp-config.php",
+		"/Users/pedrocerilla/Documents/Proyectos/PEP/Datos Server PEP",
+		"/Users/pedrocerilla/Library/Caches/Cleanup At Startup/Transmit/F796073D-5B99-4E93-80DD-E29C29CDBBAE/ranking-medallas.html",
+		"/Users/pedrocerilla/Repos/Quinela/site_themes/default_site/sitio.group/partidos.html",
+		"/Users/pedrocerilla/Repos/Quinela/site_themes/default_site/sitio.group/notifi-pred.html",
+		"/Users/pedrocerilla/Repos/Quinela/site_themes/default_site/sitio.group/pred-form.html",
+		"/Users/pedrocerilla/Repos/Quinela/site_themes/default_site/sitio.group/activacion-paso3.html",
+		"/Users/pedrocerilla/Repos/Quinela/site_themes/default_site/library/less/_base.less",
+		"/Users/pedrocerilla/Repos/Quinela/site_themes/default_site/sitio.group/index.html",
+		"/Users/pedrocerilla/Repos/Quinela/site_themes/default_site/sitio.group/entrar.html",
+		"/Users/pedrocerilla/Repos/Quinela/site_themes/default_site/sitio.group/recuperar.html",
+		"/Users/pedrocerilla/Repos/Quinela/site_themes/default_site/sitio.group/head.html",
+		"/Users/pedrocerilla/Repos/Quinela/site_themes/default_site/sitio.group/registro.html",
+		"/Users/pedrocerilla/Repos/Quinela/site_themes/default_site/sitio.group/activacion-paso2.html",
+		"/Users/pedrocerilla/Repos/Quinela/site_themes/default_site/sitio.group/activacion-paso1.html",
+		"/Users/pedrocerilla/Repos/Quinela/site_themes/default_site/sitio.group/perfil2.html",
+		"/Users/pedrocerilla/Repos/Quinela/site_themes/default_site/sitio.group/partido.html",
+		"/Users/pedrocerilla/Repos/Quinela/site_themes/default_site/sitio.group/politicas.html",
+		"/Users/pedrocerilla/Repos/Quinela/site_themes/default_site/sitio.group/terminos.html",
+		"/Users/pedrocerilla/Repos/Quinela/site_themes/default_site/sitio.group/head-partido.html",
+		"/Users/pedrocerilla/Repos/Quinela/site_themes/default_site/sitio.group/head-interiores.html",
+		"/Users/pedrocerilla/Repos/Quinela/site_themes/default_site/sitio.group/miembros.html",
+		"/Users/pedrocerilla/Repos/Quinela/site_themes/default_site/sitio.group/actualizar-perfil.html",
+		"/Users/pedrocerilla/Repos/Quinela/site_themes/default_site/sitio.group/actualizar-cuenta.html",
+		"/Users/pedrocerilla/Repos/Quinela/site_themes/default_site/sitio.group/notifi-reta.html",
+		"/Users/pedrocerilla/Repos/Quinela/site_themes/default_site/sitio.group/prediccion-hecha.html",
+		"/Users/pedrocerilla/Repos/Quinela/site_themes/default_site/sitio.group/comentariosajax.html",
+		"/Users/pedrocerilla/Repos/Quinela/site_themes/default_site/sitio.group/perfil-comentarios.html",
+		"/Users/pedrocerilla/Repos/Quinela/site_themes/default_site/sitio.group/perfil.html",
+		"/Users/pedrocerilla/Repos/Quinela/site_themes/default_site/library/js/scripts.js",
+		"/Users/pedrocerilla/Repos/Quinela/site_themes/default_site/sitio.group/part-partido.html",
+		"/Users/pedrocerilla/Repos/Quinela/site_themes/default_site/sitio.group/ranking.html",
+		"/Users/pedrocerilla/Repos/Quinela/site_themes/default_site/sitio.group/medallas.html",
+		"/Users/pedrocerilla/Repos/Quinela/site_themes/default_site/sitio.group/ranking-medallas.html",
+		"/Users/pedrocerilla/Repos/Quinela/site_themes/default_site/sitio.group/perfil-sidebar.html",
+		"/Users/pedrocerilla/Repos/Quinela/site_themes/default_site/sitio.group/part-insigniasSB.html",
+		"/Users/pedrocerilla/Repos/Quinela/site_themes/default_site/sitio.group/_totalMedallasSB.html",
+		"/Users/pedrocerilla/Repos/Quinela/site_themes/default_site/sitio.group/part-puntosSB.html",
+		"/Users/pedrocerilla/Repos/Quinela/site_themes/default_site/sitio.group/_totalSB.html",
+		"/Users/pedrocerilla/Repos/Quinela/site_themes/default_site/sitio.group/part-ptsPartido.html",
+		"/Users/pedrocerilla/Library/Application Support/Sublime Text 2/Packages/User/stash.sublime-snippet",
+		"/Users/pedrocerilla/Library/Application Support/Sublime Text 2/Packages/User/acento.sublime-snippet",
+		"/Users/pedrocerilla/Repos/Quinela/site_themes/default_site/sitio.group/premios.html",
+		"/Users/pedrocerilla/Repos/Quinela/site_themes/default_site/sitio.group/puntos-asignacion.html",
+		"/Users/pedrocerilla/Repos/Quinela/site_themes/default_site/sitio.group/puntos-predicciones.html",
+		"/Users/pedrocerilla/Repos/Quinela/site_themes/default_site/sitio.group/puntos.html",
+		"/Users/pedrocerilla/Repos/Quinela/site_themes/default_site/sitio.group/que-es.html",
+		"/Users/pedrocerilla/Repos/Quinela/site_themes/default_site/sitio.group/reglas.html",
+		"/Users/pedrocerilla/Repos/Quinela/site_themes/default_site/sitio.group/_amateur.html",
+		"/Users/pedrocerilla/Repos/Quinela/site_themes/default_site/sitio.group/asertamac.sublime-workspace",
+		"/Users/pedrocerilla/Repos/Quinela/site_themes/default_site/sitio.group/foot2.html",
+		"/Users/pedrocerilla/Repos/Quinela/site_themes/default_site/sitio.group/actualizar-avatar.html",
+		"/Users/pedrocerilla/Repos/Quinela/site_themes/default_site/sitio.group/contacto.html"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"",
+			"/Users/pedrocerilla/Repos/Quinela/site_themes/default_site/library",
+			"/Users/pedrocerilla/Repos/Quinela/site_themes/default_site/sitio.group",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"carousel-colpos",
+			"slider",
+			"/seminario",
+			"font-we",
+			"lista",
+			"lista-articulos",
+			"/technics",
+			"http://placehold.it/400x350",
+			"iframe",
+			"1600x800",
+			"<img src=\"...\" alt=\"...\">",
+			"carousel-example-generic",
+			"nav",
+			"inverse",
+			"navbar",
+			"iframe",
+			"senna",
+			"main",
+			"nombrequery",
+			"<div id=\"main\" class=\"col-md-8\" role=\"main\">",
+			".js",
+			"agregados",
+			"#search-block-form",
+			".connect",
+			"logo-footer.png",
+			"logo_footer.png",
+			".connect",
+			"#foot_center",
+			".logo-footer",
+			"#2fcc71",
+			"ul.quicktabs-tabs",
+			".jcarousel-next",
+			"block-views-featured-videos-block",
+			"\"block-views-featured-videos-block",
+			"block-views-featured-videos-block",
+			"block",
+			"#logo",
+			"#search-block-form",
+			"#search-block-form ",
+			"gainsboro",
+			".connect",
+			":hover",
+			"#f7f7f7",
+			".tb-megamenu",
+			"$background-base-color",
+			"#header-wrapper",
+			"modal",
+			"</option>",
+			"modal-persona",
+			"endif",
+			"modal-persona",
+			"jur",
+			"z-index",
+			"z-",
+			"modal",
+			"modalID",
+			"modaljuradoPost",
+			"<?php echo $numID; ?>",
+			"nombrequery",
+			"juradoPost",
+			"numID",
+			"#cta-slide ",
+			".hover-cont",
+			"modal-footer",
+			"guarda_boletin",
+			"sr-only",
+			"hidden-xs",
+			"hidden-",
+			"-border",
+			"btn-success-border",
+			".btn",
+			".navbar-nav",
+			"bases",
+			"jurado",
+			"modal",
+			"nav",
+			"lighter",
+			"120x120",
+			"carousel-example-generic",
+			"90x90",
+			"170x100",
+			"<li class=\"col-md-2\">",
+			"Descripción",
+			"<div class=\"hover-cont\">\n											<h3>uno dos</h3>\n										</div>",
+			"modal",
+			" data-toggle=\"modal\" ",
+			":",
+			"orange",
+			"no coi",
+			"{/exp:channel:entries}",
+			"IDcomentariosTitle",
+			"IDcomentarios",
+			"gracias",
+			"#A94442",
+			"@state-warning-text",
+			"has-error",
+			"has-error .help-block,",
+			"bootstrap-3.1.1",
+			"{embed=\"sitio/foot\"}",
+			"sitio/perfil",
+			"{path=sitio/perfil}",
+			"sitio/perfil",
+			"href=\"{path='site_index'}/sitio/perfil/",
+			"sitio/perfil",
+			"php",
+			"idBadgeAsoc",
+			"idBadgeAsocN",
+			"stash",
+			"idBadgeAsoc",
+			"<b>0 </b><span>Puntos</span>",
+			"Upload a New Avatar:",
+			"You currently do not have an avatar uploaded.",
+			"Current Avatar:",
+			"Fill in or edit the fields below to update your profile:",
+			"<span>This user has not posted any entries.</span>",
+			"this user",
+			"Medallas",
+			"<b>15 </b><span>Insignias</span>",
+			"<b>6000 </b><span>Puntos</span> ",
+			"partido_rel:resultado_de_partido",
+			"partido_rel:marcador_visitante",
+			"partido_rel:marcador_local",
+			"<b>15 </b><span>Medallas</span> ",
+			"ptsResults",
+			"Badges",
+			"Ver lista de miembro",
+			"¿Ya te registraste? Hazlo ahora",
+			"badges"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"corousel-chematrix",
+			"",
+			"http://lorempixel.com/400/350/technics",
+			"1600x600",
+			"<img src=\"http://placehold.it/1600x800\" alt=\"...\">",
+			"corousel-chematrix",
+			"todospost",
+			"<div id=\"main\" class=\"col-md-9\" role=\"main\">",
+			"",
+			"comitemodalID",
+			"modalcomitePost",
+			"<?php echo $modalID; ?>",
+			"modaljuradoPost",
+			"modalID",
+			"120x90",
+			"crrousel",
+			"120x120",
+			"90x90",
+			"<li>",
+			"Descripción <i class=\"fa fa-plus-circle\"></i>",
+			"<div class=\"hover-cont\">\n											<div class=\"prem prem_mundo\"></div>\n											<h4>Mejor Fotografía <br>por el planeta</h4>\n											<hr>\n											<div class=\"iconprem\">\n												<i class=\"fa fa-trophy\"></i>\n											</div>\n											<div class=\"hc-txt\">\n												<span>Primer lugar</span>\n												<h3>$100 000.00 USD</h3>\n											</div>\n										</div>",
+			" ",
+			"bootstrap-3",
+			"{embed=\"sitio/foot2\"}",
+			"{path=sitio/perfil2}",
+			"href=\"{path='site_index'}/sitio/perfil2/",
+			"{embed=\"sitio/part-puntos\" id_usuario=\"{member_id}\"}",
+			"Carga una nueva foto:",
+			"Actualmente no tienes una imagen de perfil.",
+			"Tu foto: ",
+			"Llena o edita los campos abajo, para actualizar tu perfil:",
+			"<span>El usuario aun no ha jugado.</span>",
+			"<b>0 </b><span>Insignias</span>",
+			"<b>0 </b><span>Puntos</span>",
+			"<b>15 </b><span>Insignias</span> ",
+			"Insignias",
+			"Listado de participantes",
+			"¿No te haz registrado? ¡Hazlo ahora!",
+			"insignias",
+			"",
+			"<h3 class=\"text-center\">",
+			"{site_url}/themes/site_themes/default_site/library/images/default-user.jpg",
+			"paginate=\"bottom\"",
+			"",
+			"color:				#fff;",
+			"<img src=\"{site_url}/themes/site_themes/default_site/library/images/LOGO_HOR_FONDO_CLARO.png\">",
+			"<div class=\"form-group has-feedback\">",
+			"{exp:channel:entries channel=\"partidos\" search:fecha=\"sáb 14 de jun de 14\" orderby=\"fecha\" sort=\"asc\" limit=\"4\" disable=\"categories|member_data|pagination|category_fields\"}",
+			"{site_url}/themes/site_themes/default_site/library/images/big_horns.jpg",
+			"sitio/error-perfil",
+			"{logged_in_member_id}",
+			"/home/zaa/dev.zaa.mx/quinela/",
+			"http://www.dev.zaa.mx/quinela",
+			"",
+			"<div class=\"col-sm-3 text-center\">",
+			"<img src=\"http://placehold.it/150x150\" class=\"img-circle\" alt=\"\">",
+			"h4",
+			"<article class=\"text-center item-partido\">"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 11,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "header-home.php",
+					"settings":
+					{
+						"buffer_size": 5584,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3550,
+								3550
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1385.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "library/less/libs/bootstrap-3/variables.less",
+					"settings":
+					{
+						"buffer_size": 26337,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								551,
+								551
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/LESS/LESS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 118.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "sidebar.php",
+					"settings":
+					{
+						"buffer_size": 1763,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								42,
+								42
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "sidebar-home.php",
+					"settings":
+					{
+						"buffer_size": 522,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								522,
+								522
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "library/bones.php",
+					"settings":
+					{
+						"buffer_size": 12231,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								11504,
+								11504
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 27.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "library/less/_xs-base.less",
+					"settings":
+					{
+						"buffer_size": 14733,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3769,
+								3769
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/LESS/LESS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1490.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "archive.php",
+					"settings":
+					{
+						"buffer_size": 3183,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1699,
+								1699
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 47.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "template-parts/event.php",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 3,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "page-homejs.php",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "single.php",
+					"settings":
+					{
+						"buffer_size": 2136,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								371,
+								371
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "template-parts/format-event.php",
+					"settings":
+					{
+						"buffer_size": 1575,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								605,
+								605
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 3,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "functions.php",
+					"settings":
+					{
+						"buffer_size": 9567,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5130,
+								5130
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2541.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "single.php",
+					"settings":
+					{
+						"buffer_size": 2136,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								536,
+								536
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 109.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "header.php",
+					"settings":
+					{
+						"buffer_size": 3307,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2053,
+								2053
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "page-homejs.php",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 231.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "library/less/_xs-base.less",
+					"settings":
+					{
+						"buffer_size": 14733,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								577,
+								577
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/LESS/LESS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 555.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "footer.php",
+					"settings":
+					{
+						"buffer_size": 2184,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								738,
+								738
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "sidebar-home.php",
+					"settings":
+					{
+						"buffer_size": 522,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								522,
+								522
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 14,
+					"file": "front-page.php",
+					"settings":
+					{
+						"buffer_size": 5547,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4779,
+								4779
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2266.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 15,
+					"file": "template-parts/post-artImage.php",
+					"settings":
+					{
+						"buffer_size": 538,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								538,
+								538
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 0,
+					"file": "header-home.php",
+					"settings":
+					{
+						"buffer_size": 5584,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1149,
+								1149
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 265.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 14,
+					"file": "front-page.php",
+					"settings":
+					{
+						"buffer_size": 5547,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								949,
+								949
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 13,
+					"file": "footer.php",
+					"settings":
+					{
+						"buffer_size": 2184,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								831,
+								831
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 226.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 29.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"footer",
+				"footer.php"
+			],
+			[
+				"func",
+				"functions.php"
+			],
+			[
+				"fron",
+				"front-page.php"
+			],
+			[
+				"front",
+				"front-page.php"
+			],
+			[
+				"header",
+				"header-home.php"
+			],
+			[
+				"base",
+				"library/less/_xs-base.less"
+			],
+			[
+				"st",
+				"senna/library/css/style.css"
+			],
+			[
+				"stye",
+				"senna/library/css/style.css"
+			],
+			[
+				"event",
+				"senna/template-parts/format-event.php"
+			],
+			[
+				"var",
+				"senna/library/less/libs/bootstrap-3/variables.less"
+			],
+			[
+				"sin",
+				"senna/single.php"
+			],
+			[
+				"pages",
+				"senna/page-homejs.php"
+			],
+			[
+				"home",
+				"senna/page-homejs.php"
+			],
+			[
+				"vara",
+				"senna/library/less/libs/bootstrap-3/variables.less"
+			],
+			[
+				"bones",
+				"senna/library/bones.php"
+			],
+			[
+				"hed",
+				"senna/header-home.php"
+			],
+			[
+				"side",
+				"senna/sidebar-home.php"
+			],
+			[
+				"sine",
+				"senna/single.php"
+			],
+			[
+				"archi",
+				"senna/archive.php"
+			],
+			[
+				"sid",
+				"senna/sidebar.php"
+			],
+			[
+				"varis",
+				"senna/library/less/libs/bootstrap-3/variables.less"
+			],
+			[
+				"_base",
+				"senna/library/less/_xs-base.less"
+			],
+			[
+				"hom",
+				"senna/page-homejs.php"
+			],
+			[
+				"scrit",
+				"senna/library/js/scripts.js"
+			],
+			[
+				"sider",
+				"senna/sidebar.php"
+			],
+			[
+				"single",
+				"senna/single.php"
+			],
+			[
+				"sing",
+				"senna/single.php"
+			],
+			[
+				"page",
+				"senna/page-homejs.php"
+			],
+			[
+				"page-",
+				"senna/page-homejs.php"
+			],
+			[
+				"index",
+				"senna/index.php"
+			],
+			[
+				"singl",
+				"senna/single.php"
+			],
+			[
+				"page.s",
+				"sass/_page.scss"
+			],
+			[
+				"style",
+				"public/library/css/style.css"
+			],
+			[
+				"768",
+				"public/library/less/_768up.less"
+			],
+			[
+				"481",
+				"public/library/less/_481up.less"
+			],
+			[
+				"nav",
+				"app/views/global/nav.blade.php"
+			],
+			[
+				"jurado",
+				"public/noticias/wp-content/themes/ok/page-front-jurado.php"
+			],
+			[
+				"script",
+				"public/library/js/scripts.js"
+			],
+			[
+				"bases",
+				"public/noticias/wp-content/themes/ok/page-front-bases.php"
+			],
+			[
+				"nab",
+				"public/noticias/wp-includes/admin-bar.php"
+			],
+			[
+				"comite",
+				"public/noticias/wp-content/themes/ok/page-front-comite.php"
+			],
+			[
+				"vide.m",
+				"public/library/js/libs/jquery.vide.min.js"
+			],
+			[
+				"modal",
+				"public/library/less/libs/bootstrap-3.1.1/modals.less"
+			],
+			[
+				"variables",
+				"public/library/less/libs/bootstrap-3.1.1/variables.less"
+			],
+			[
+				"convo",
+				"app/views/convocatoria/Home.blade.php"
+			],
+			[
+				"jurad",
+				"public/noticias/wp-content/themes/ok/page-front-jurado.php"
+			],
+			[
+				"modal-",
+				"public/noticias/wp-content/themes/ok/parts/modal-jurado.php"
+			],
+			[
+				"",
+				"public/noticias/wp-content/themes/ok/page-front-jurado.php"
+			],
+			[
+				"mixin",
+				"public/library/less/libs/bootstrap-3.1.1/mixins.less"
+			],
+			[
+				"ie.les",
+				"public/library/less/ie.less"
+			],
+			[
+				"varia",
+				"public/library/less/libs/bootstrap-3.1.1/variables.less"
+			],
+			[
+				"js.",
+				"app/views/global/js.blade.php"
+			],
+			[
+				"pagevideo",
+				"public/noticias/wp-content/themes/ok/page-front-video.php"
+			],
+			[
+				"video",
+				"public/noticias/videoFullWidth.php"
+			],
+			[
+				"scr",
+				"public/library/js/scripts.js"
+			],
+			[
+				"notic",
+				"public/noticias/wp-content/themes/ok/page-front-noticias.php"
+			],
+			[
+				"premios",
+				"public/noticias/wp-content/themes/ok/page-front-premios.php"
+			],
+			[
+				"48",
+				"public/library/less/_481up.less"
+			],
+			[
+				"76",
+				"public/library/less/_768up.less"
+			],
+			[
+				".g",
+				".gitignore"
+			],
+			[
+				"contad",
+				"public/noticias/wp-content/themes/ok/page-front-contador.php"
+			],
+			[
+				"inde",
+				"index.html"
+			],
+			[
+				"boot",
+				"library/css/libs/bootstrap-3.1.1/bootstrap.css"
+			],
+			[
+				"styles",
+				"library/less/style.less"
+			],
+			[
+				"butt",
+				"library/less/libs/bootstrap-3.1.1/buttons.less"
+			],
+			[
+				"js",
+				"library/js/scripts.js"
+			],
+			[
+				"bas",
+				"library/less/_base.less"
+			],
+			[
+				"pred",
+				"sitio.group/pred-form.html"
+			],
+			[
+				"noti",
+				"sitio.group/notifi-pred.html"
+			],
+			[
+				"parti",
+				"sitio.group/partidos.html"
+			],
+			[
+				"partido",
+				"sitio.group/partido.html"
+			],
+			[
+				"pred-",
+				"sitio.group/pred-form.html"
+			],
+			[
+				"actua",
+				"sitio.group/actualizar-cuenta.html"
+			],
+			[
+				"act",
+				"sitio.group/actualizar-perfil.html"
+			],
+			[
+				"miembros",
+				"sitio.group/miembros.html"
+			],
+			[
+				"head",
+				"sitio.group/head-interiores.html"
+			],
+			[
+				"part",
+				"sitio.group/partido.html"
+			],
+			[
+				"poli",
+				"sitio.group/politicas.html"
+			],
+			[
+				"termino",
+				"sitio.group/terminos.html"
+			],
+			[
+				"partdo",
+				"sitio.group/partidos.html"
+			],
+			[
+				"perf",
+				"sitio.group/perfil2.html"
+			],
+			[
+				"rec",
+				"sitio.group/recuperar.html"
+			],
+			[
+				"actu",
+				"sitio.group/actualizar-perfil.html"
+			],
+			[
+				"paso",
+				"sitio.group/activacion-paso3.html"
+			],
+			[
+				"entr",
+				"sitio.group/entrar.html"
+			],
+			[
+				"recuper",
+				"sitio.group/recuperar.html"
+			],
+			[
+				"regis",
+				"sitio.group/registro.html"
+			],
+			[
+				"he",
+				"sitio.group/head.html"
+			],
+			[
+				"per",
+				"sitio.group/perfil2.html"
+			],
+			[
+				"ran",
+				"sitio.group/ranking.html"
+			],
+			[
+				"partid",
+				"sitio.group/partido.html"
+			],
+			[
+				"meda",
+				"sitio.group/medallas.html"
+			],
+			[
+				"rankin",
+				"sitio.group/ranking-medallas.html"
+			],
+			[
+				"form",
+				"sitio.group/pred-form.html"
+			],
+			[
+				"hec",
+				"sitio.group/prediccion-hecha.html"
+			],
+			[
+				"tot",
+				"sitio.group/_total.html"
+			],
+			[
+				"part-p",
+				"sitio.group/part-puntos.html"
+			],
+			[
+				"total",
+				"sitio.group/_totalMedallas.html"
+			],
+			[
+				"part-",
+				"sitio.group/part-insignias.html"
+			],
+			[
+				"mie",
+				"sitio.group/miembros.html"
+			],
+			[
+				"ram",
+				"sitio.group/ranking.html"
+			],
+			[
+				"perfi",
+				"sitio.group/perfil2.html"
+			],
+			[
+				"comen",
+				"sitio.group/perfil-comentarios.html"
+			],
+			[
+				"pred-f",
+				"sitio.group/pred-form.html"
+			],
+			[
+				"predi",
+				"sitio.group/prediccion-hecha.html"
+			],
+			[
+				"hea",
+				"sitio.group/head-partido.html"
+			],
+			[
+				"v",
+				"library/less/libs/bootstrap-3.1.1/variables.less"
+			],
+			[
+				"foo",
+				"sitio.group/foot2.html"
+			],
+			[
+				"foot",
+				"sitio.group/foot.html"
+			],
+			[
+				"9",
+				"library/less/_992up.less"
+			],
+			[
+				"ind",
+				"sitio.group/index.html"
+			],
+			[
+				"erfi",
+				"sitio.group/perfil2.html"
+			],
+			[
+				"_",
+				"sitio.group/_amateur.html"
+			],
+			[
+				"hech",
+				"sitio.group/prediccion-hecha.html"
+			],
+			[
+				"not",
+				"sitio.group/notifi-pred.html"
+			],
+			[
+				"pre",
+				"sitio.group/notifi-pred.html"
+			],
+			[
+				"rank",
+				"sitio.group/ranking-medallas.html"
+			],
+			[
+				"p",
+				"sitio.group/perfil.html"
+			],
+			[
+				"hecha",
+				"sitio.group/prediccion-hecha.html"
+			],
+			[
+				"entrar",
+				"sitio.group/entrar.html"
+			],
+			[
+				"r",
+				"sitio.group/ranking.html"
+			],
+			[
+				"perfil",
+				"sitio.group/perfil.html"
+			],
+			[
+				"_to",
+				"sitio.group/_total.html"
+			],
+			[
+				"puntos",
+				"sitio.group/puntos-predicciones.html"
+			],
+			[
+				"par",
+				"sitio.group/partidos.html"
+			],
+			[
+				"punt",
+				"sitio.group/puntos-predicciones.html"
+			],
+			[
+				"pun",
+				"sitio.group/puntos-asignacion.html"
+			],
+			[
+				"ra",
+				"sitio.group/ranking.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 307.0,
+	"status_bar_visible": true
+}
